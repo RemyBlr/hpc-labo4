@@ -13,7 +13,7 @@ add_executable(simd_exercice
 )
 
 target_compile_options(simd_demo PRIVATE
-    -O0 -g
+    -O3 -march=native -g
 )
 
 target_compile_options(simd_exercice PRIVATE
