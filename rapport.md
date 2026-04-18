@@ -18,3 +18,5 @@ Impossible, je suis sur mac, faudrait que je fasse sur les ordis de la salle de 
 **-O3 -march=native**
 
 ![O3 -march=native](./assets/demo_O3_march.png)
+
+Flemme de finir, déjà parce que y avait plus les ordis dans la salle de classe donc je pouvais pas continuer. Et apparement ça sert à rien pour les labos notés vu que les labos ils contiennent la théorie du cours + des trucs qu'on a jamais vu.
